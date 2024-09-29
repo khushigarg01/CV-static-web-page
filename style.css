@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: white;
+}
+
+header {
+    text-align: center;
+    background: grey;
+    color: white;
+    padding: 10px 0;
+}
+
+section {
+    margin: 20px 0;
+    background: white;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+h2 {
+    color: #333;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 0.9em;
+}
+                <h3>JSSATE-Youth for a Cause</h3>
+                <p>March 2024-Present</p>
+                <p>Member </p>
+            </li>
+            <li>
+                <h3>Freelancing at CodSoft </h3>
+                <p>June 2024-July 2024</p>
+                <p>Intern</p>
+            </li>
+            <!-- Add more job entries here -->
+        </ul>
+    </section>
+    <section id="education">
+        <h2>Education</h2>
+        <ul>
+            <li>
+                <h3>Bachelor of Technology</h3>
+                <p>JSS Academy of Technical Education - 2026</p>
+            </li>
+            <!-- Add more education entries here -->
+        </ul>
+    </section>
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Photography</li>
+            <li>Team Work</li>
+            <li>Volunteering</li>
+            <li>Problem Solving</li>
+            <li>Project Management</li>
+            <!-- Add more skills here -->
+        </ul>
+    </section>
+    <footer>
+        <p>Contact: khushigarg@gmail.com</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
